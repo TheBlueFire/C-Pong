@@ -1,0 +1,8 @@
+d:\admin\documents\visual studio 2015\Projects\ServerSocketNew\ServerSocketNew\bin\Debug\ServerSocketNew.exe.config
+d:\admin\documents\visual studio 2015\Projects\ServerSocketNew\ServerSocketNew\bin\Debug\ServerSocketNew.exe
+d:\admin\documents\visual studio 2015\Projects\ServerSocketNew\ServerSocketNew\bin\Debug\ServerSocketNew.pdb
+d:\admin\documents\visual studio 2015\Projects\ServerSocketNew\ServerSocketNew\obj\Debug\ServerSocketNew.csprojResolveAssemblyReference.cache
+d:\admin\documents\visual studio 2015\Projects\ServerSocketNew\ServerSocketNew\obj\Debug\ServerSocketNew.exe
+d:\admin\documents\visual studio 2015\Projects\ServerSocketNew\ServerSocketNew\obj\Debug\ServerSocketNew.pdb
+D:\Admin\Documents\Visual Studio 2015\Projects\ServerSocketNew\ServerSocketNew\bin\Debug\Blue_Debugger.dll
+D:\Admin\Documents\Visual Studio 2015\Projects\ServerSocketNew\ServerSocketNew\bin\Debug\Blue_Debugger.pdb

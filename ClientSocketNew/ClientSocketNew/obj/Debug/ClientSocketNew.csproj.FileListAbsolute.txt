@@ -1,0 +1,13 @@
+d:\admin\documents\visual studio 2015\Projects\ClientSocketNew\ClientSocketNew\bin\Debug\ClientSocketNew.exe.config
+D:\Admin\Documents\Visual Studio 2015\Projects\ClientSocketNew\ClientSocketNew\bin\Debug\ClientSocketNew.exe
+D:\Admin\Documents\Visual Studio 2015\Projects\ClientSocketNew\ClientSocketNew\bin\Debug\ClientSocketNew.pdb
+D:\Admin\Documents\Visual Studio 2015\Projects\ClientSocketNew\ClientSocketNew\obj\Debug\ClientSocketNew.csprojResolveAssemblyReference.cache
+D:\Admin\Documents\Visual Studio 2015\Projects\ClientSocketNew\ClientSocketNew\obj\Debug\ClientSocketNew.Form1.resources
+D:\Admin\Documents\Visual Studio 2015\Projects\ClientSocketNew\ClientSocketNew\obj\Debug\ClientSocketNew.Properties.Resources.resources
+D:\Admin\Documents\Visual Studio 2015\Projects\ClientSocketNew\ClientSocketNew\obj\Debug\ClientSocketNew.csproj.GenerateResource.Cache
+D:\Admin\Documents\Visual Studio 2015\Projects\ClientSocketNew\ClientSocketNew\obj\Debug\ClientSocketNew.exe
+D:\Admin\Documents\Visual Studio 2015\Projects\ClientSocketNew\ClientSocketNew\obj\Debug\ClientSocketNew.pdb
+D:\Admin\Documents\Visual Studio 2015\Projects\ClientSocketNew\ClientSocketNew\bin\Debug\Blue_Debugger.dll
+D:\Admin\Documents\Visual Studio 2015\Projects\ClientSocketNew\ClientSocketNew\bin\Debug\ClientSockerDLL.dll
+D:\Admin\Documents\Visual Studio 2015\Projects\ClientSocketNew\ClientSocketNew\bin\Debug\Blue_Debugger.pdb
+D:\Admin\Documents\Visual Studio 2015\Projects\ClientSocketNew\ClientSocketNew\bin\Debug\ClientSockerDLL.pdb

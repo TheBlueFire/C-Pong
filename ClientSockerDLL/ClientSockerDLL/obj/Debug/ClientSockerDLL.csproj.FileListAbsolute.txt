@@ -1,0 +1,7 @@
+d:\admin\documents\visual studio 2015\Projects\ClientSockerDLL\ClientSockerDLL\bin\Debug\ClientSockerDLL.dll
+d:\admin\documents\visual studio 2015\Projects\ClientSockerDLL\ClientSockerDLL\bin\Debug\ClientSockerDLL.pdb
+d:\admin\documents\visual studio 2015\Projects\ClientSockerDLL\ClientSockerDLL\bin\Debug\Blue_Debugger.dll
+d:\admin\documents\visual studio 2015\Projects\ClientSockerDLL\ClientSockerDLL\bin\Debug\Blue_Debugger.pdb
+d:\admin\documents\visual studio 2015\Projects\ClientSockerDLL\ClientSockerDLL\obj\Debug\ClientSockerDLL.csprojResolveAssemblyReference.cache
+d:\admin\documents\visual studio 2015\Projects\ClientSockerDLL\ClientSockerDLL\obj\Debug\ClientSockerDLL.dll
+d:\admin\documents\visual studio 2015\Projects\ClientSockerDLL\ClientSockerDLL\obj\Debug\ClientSockerDLL.pdb

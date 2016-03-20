@@ -1,0 +1,5 @@
+d:\admin\documents\visual studio 2015\Projects\Blue_Debugger\Blue_Debugger\bin\Debug\Blue_Debugger.dll
+d:\admin\documents\visual studio 2015\Projects\Blue_Debugger\Blue_Debugger\bin\Debug\Blue_Debugger.pdb
+d:\admin\documents\visual studio 2015\Projects\Blue_Debugger\Blue_Debugger\obj\Debug\Blue_Debugger.csprojResolveAssemblyReference.cache
+d:\admin\documents\visual studio 2015\Projects\Blue_Debugger\Blue_Debugger\obj\Debug\Blue_Debugger.dll
+d:\admin\documents\visual studio 2015\Projects\Blue_Debugger\Blue_Debugger\obj\Debug\Blue_Debugger.pdb

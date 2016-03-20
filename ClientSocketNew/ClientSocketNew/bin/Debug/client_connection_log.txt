@@ -1,0 +1,86 @@
+1:06:07 |  OK  | -------------1:06:07 -------------
+1:06:07 |  OK  | Debugger Successfully loaded
+1:06:07 |  OK  | Debug Thread Successfully started
+1:06:48 |  OK  | -------------1:06:48 -------------
+1:06:48 |  OK  | Debugger Successfully loaded
+1:06:48 |  OK  | Connected to localhost:8888
+1:06:48 |  OK  | Debug Thread Successfully started
+1:10:01 |  OK  | -------------1:10:01 -------------
+1:10:01 |  OK  | Debugger Successfully loaded
+1:10:01 |  OK  | Debug Thread Successfully started
+1:10:01 |  OK  | Connected to localhost:8888
+1:12:21 |  OK  | -------------1:12:21 -------------
+1:12:21 |  OK  | Debugger Successfully loaded
+1:12:21 |  OK  | Debug Thread Successfully started
+1:12:21 |  OK  | Connected to localhost:8888
+1:19:03 |  OK  | -------------1:19:03 -------------
+1:19:03 |  OK  | Debugger Successfully loaded
+1:19:03 |  OK  | Debug Thread Successfully started
+1:19:03 |  OK  | Connected to localhost:8888
+1:30:39 |  OK  | -------------1:30:39 -------------
+1:30:39 |  OK  | Debugger Successfully loaded
+1:30:39 |  OK  | Debug Thread Successfully started
+1:30:39 |  OK  | Connected to localhost:8888
+1:33:40 |  OK  | -------------1:33:40 -------------
+1:33:40 |  OK  | Debugger Successfully loaded
+1:33:40 |  OK  | Debug Thread Successfully started
+1:33:40 |  OK  | -------------1:33:40 -------------
+1:33:40 |  OK  | Debugger Successfully loaded
+1:33:40 |  OK  | Debug Thread Successfully started
+1:33:40 |  OK  | Connected to localhost:8888
+1:33:42 |  OK  | Client connection closed
+1:34:03 |  OK  | -------------1:34:03 -------------
+1:34:03 |  OK  | Debugger Successfully loaded
+1:34:03 |  OK  | Debug Thread Successfully started
+1:34:03 |  OK  | Connected to localhost:8888
+1:35:50 |  OK  | Client connection closed
+1:36:17 |  OK  | -------------1:36:17 -------------
+1:36:17 |  OK  | Debugger Successfully loaded
+1:36:17 |  OK  | Debug Thread Successfully started
+1:36:17 |  OK  | -------------1:36:17 -------------
+1:36:17 |  OK  | Debugger Successfully loaded
+1:36:17 |  OK  | Debug Thread Successfully started
+1:36:17 |  OK  | Connected to localhost:8888
+1:36:19 |  OK  | -------------1:36:19 -------------
+1:36:19 |  OK  | Debugger Successfully loaded
+1:36:19 |  OK  | Debug Thread Successfully started
+1:36:19 |  OK  | Connected to localhost:8888
+1:36:32 |  OK  | -------------1:36:32 -------------
+1:36:32 |  OK  | Debugger Successfully loaded
+1:36:32 |  OK  | Debug Thread Successfully started
+1:36:32 |  OK  | Connected to localhost:8888
+1:36:48 |  OK  | -------------1:36:48 -------------
+1:36:48 |  OK  | Debugger Successfully loaded
+1:36:48 |  OK  | Debug Thread Successfully started
+1:36:48 |  OK  | Connected to localhost:8888
+6:40:29 |  OK  | -------------6:40:29 -------------
+6:40:29 |  OK  | Debugger Successfully loaded
+6:40:29 |  OK  | Debug Thread Successfully started
+6:40:29 |  OK  | Connected to localhost:8888
+6:40:31 |  OK  | -------------6:40:31 -------------
+6:40:31 |  OK  | Debugger Successfully loaded
+6:40:31 |  OK  | -------------6:40:31 -------------
+6:40:31 |  OK  | Debugger Successfully loaded
+6:40:31 |  OK  | Debug Thread Successfully started
+6:40:31 |  OK  | Connected to localhost:8888
+6:40:33 |  OK  | -------------6:40:33 -------------
+6:40:33 |  OK  | Debugger Successfully loaded
+6:40:33 |  OK  | Debug Thread Successfully started
+6:40:33 |  OK  | -------------6:40:33 -------------
+6:40:33 |  OK  | Debugger Successfully loaded
+6:40:33 |  OK  | Debug Thread Successfully started
+6:40:33 |  OK  | Connected to localhost:8888
+1:38:15 |  OK  | -------------1:38:15 -------------
+1:38:15 |  OK  | Debugger Successfully loaded
+1:38:15 |  OK  | Debug Thread Successfully started
+1:38:15 |  OK  | -------------1:38:15 -------------
+1:38:15 |  OK  | Debugger Successfully loaded
+1:38:15 |  OK  | Debug Thread Successfully started
+1:38:15 |  OK  | Connected to localhost:8888
+1:41:00 |  OK  | -------------1:41:00 -------------
+1:41:00 |  OK  | Debugger Successfully loaded
+1:41:00 |  OK  | Debug Thread Successfully started
+1:41:00 |  OK  | -------------1:41:00 -------------
+1:41:00 |  OK  | Debugger Successfully loaded
+1:41:00 |  OK  | Debug Thread Successfully started
+1:41:00 |  OK  | Connected to localhost:8888
